@@ -1,0 +1,15 @@
+C:\workspace\CovidTrack\CovidTrack.DAL\bin\Debug\netcoreapp3.1\CovidTrack.BLL.dll
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.csprojAssemblyReference.cache
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.AssemblyInfoInputs.cache
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.AssemblyInfo.cs
+C:\workspace\CovidTrack\CovidTrack.DAL\bin\Debug\netcoreapp3.1\CovidTrack.DAL.deps.json
+C:\workspace\CovidTrack\CovidTrack.DAL\bin\Debug\netcoreapp3.1\CovidTrack.DAL.dll
+C:\workspace\CovidTrack\CovidTrack.DAL\bin\Debug\netcoreapp3.1\CovidTrack.DAL.pdb
+C:\workspace\CovidTrack\CovidTrack.DAL\bin\Debug\netcoreapp3.1\CovidTrack.BLL.pdb
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.csproj.CoreCompileInputs.cache
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.csproj.CopyComplete
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.dll
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.pdb
+C:\workspace\CovidTrack\CovidTrack.DAL\bin\Debug\netcoreapp3.1\CovidTrack.DAL.runtimeconfig.json
+C:\workspace\CovidTrack\CovidTrack.DAL\bin\Debug\netcoreapp3.1\CovidTrack.DAL.runtimeconfig.dev.json
+C:\workspace\CovidTrack\CovidTrack.DAL\obj\Debug\netcoreapp3.1\CovidTrack.DAL.genruntimeconfig.cache

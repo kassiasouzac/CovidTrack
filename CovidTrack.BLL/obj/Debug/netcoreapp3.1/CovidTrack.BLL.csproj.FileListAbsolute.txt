@@ -1,0 +1,12 @@
+C:\workspace\CovidTrack\CovidTrack.BLL\bin\Debug\netcoreapp3.1\CovidTrack.BLL.deps.json
+C:\workspace\CovidTrack\CovidTrack.BLL\bin\Debug\netcoreapp3.1\CovidTrack.BLL.dll
+C:\workspace\CovidTrack\CovidTrack.BLL\bin\Debug\netcoreapp3.1\CovidTrack.BLL.pdb
+C:\workspace\CovidTrack\CovidTrack.BLL\obj\Debug\netcoreapp3.1\CovidTrack.BLL.AssemblyInfoInputs.cache
+C:\workspace\CovidTrack\CovidTrack.BLL\obj\Debug\netcoreapp3.1\CovidTrack.BLL.AssemblyInfo.cs
+C:\workspace\CovidTrack\CovidTrack.BLL\obj\Debug\netcoreapp3.1\CovidTrack.BLL.csproj.CoreCompileInputs.cache
+C:\workspace\CovidTrack\CovidTrack.BLL\obj\Debug\netcoreapp3.1\CovidTrack.BLL.dll
+C:\workspace\CovidTrack\CovidTrack.BLL\obj\Debug\netcoreapp3.1\CovidTrack.BLL.pdb
+C:\workspace\CovidTrack\CovidTrack.BLL\bin\Debug\netcoreapp3.1\CovidTrack.BLL.runtimeconfig.json
+C:\workspace\CovidTrack\CovidTrack.BLL\bin\Debug\netcoreapp3.1\CovidTrack.BLL.runtimeconfig.dev.json
+C:\workspace\CovidTrack\CovidTrack.BLL\obj\Debug\netcoreapp3.1\CovidTrack.BLL.csprojAssemblyReference.cache
+C:\workspace\CovidTrack\CovidTrack.BLL\obj\Debug\netcoreapp3.1\CovidTrack.BLL.genruntimeconfig.cache
